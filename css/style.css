@@ -56,7 +56,7 @@ h1{
 }
 #sec-c{
 	display: flex;
-
+	flex-wrap: wrap;
 }
 #sec-c div{
 	padding: 20px;
